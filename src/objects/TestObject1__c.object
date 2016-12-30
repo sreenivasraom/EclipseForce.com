@@ -64,5 +64,5 @@
     </nameField>
     <pluralLabel>TestObjects</pluralLabel>
     <searchLayouts/>
-    <sharingModel>This is from master</sharingModel>
+    <sharingModel>ReadWrite</sharingModel>
 </CustomObject>
