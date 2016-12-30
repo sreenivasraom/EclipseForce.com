@@ -64,5 +64,5 @@
     </nameField>
     <pluralLabel>TestObjects</pluralLabel>
     <searchLayouts/>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>ControlleredByParent</sharingModel>
 </CustomObject>
