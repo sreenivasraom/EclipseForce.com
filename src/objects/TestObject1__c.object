@@ -64,5 +64,5 @@
     </nameField>
     <pluralLabel>TestObjects</pluralLabel>
     <searchLayouts/>
-    <sharingModel>ControlleredByParent</sharingModel>
+    <sharingModel>This is from master</sharingModel>
 </CustomObject>
